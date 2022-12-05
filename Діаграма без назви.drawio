@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-05T18:24:51.859Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="NEE88INMGr8NIE-wyKH0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-05T18:30:06.609Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="3JflNOPuCVJQAiIz9gec" type="github">
   <diagram id="pwhH4tlLXSkcmSUfD4Lw" name="Сторінка-1">
     <mxGraphModel dx="716" dy="377" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -161,7 +161,7 @@
         <mxCell id="3VXwcz7VUajLh9dcnyw5-38" value="&lt;font color=&quot;#0000ff&quot;&gt;220V&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="490" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="3VXwcz7VUajLh9dcnyw5-39" value="220V" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3VXwcz7VUajLh9dcnyw5-39" value="&lt;font color=&quot;#0000ff&quot;&gt;220V&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="110" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3VXwcz7VUajLh9dcnyw5-40" value="&lt;font color=&quot;#0000ff&quot;&gt;220V&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -178,6 +178,12 @@
         </mxCell>
         <mxCell id="3VXwcz7VUajLh9dcnyw5-44" value="&lt;font color=&quot;#ff8000&quot;&gt;12V&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="340" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3VXwcz7VUajLh9dcnyw5-45" value="When the electric current disappears, the charge relay &lt;br&gt;switches to the inverter power supply, the voltage relay &lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;switches to the load&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="340" y="70" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3VXwcz7VUajLh9dcnyw5-46" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#0000FF;" edge="1" parent="1" source="3VXwcz7VUajLh9dcnyw5-45" target="3VXwcz7VUajLh9dcnyw5-45">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
